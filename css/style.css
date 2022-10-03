@@ -3,6 +3,11 @@ a{
     font-family: "VCROSDMono",Helvetica, Arial, sans-serif;
 }
 
+div a{
+    position:relative;
+    top:4px;
+}
+
 * {
     padding: 0;
     margin: 0;
@@ -79,7 +84,8 @@ p{
     padding: 5px;
      font-weight:700;
      background-color: gray;
-     text-align: center;   
+     text-align: center;
+        
 }
 
 .button2 {
