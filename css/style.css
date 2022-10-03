@@ -1,11 +1,12 @@
 a{
     text-decoration-line: none;
+    font-family: "VCROSDMono",Helvetica, Arial, sans-serif;
 }
 
 * {
     padding: 0;
     margin: 0;
-    font-family: sans-serif;
+    font-family: "VCROSDMono",Helvetica, Arial, sans-serif;
     box-sizing: border-box;
     color: rgb(0, 0, 0);
 }
@@ -48,6 +49,19 @@ model-viewer{
     font-weight:700;
     background-color: black;
 }
+.container3 {
+    width: 500px;
+    height: 40px;
+    position: absolute;
+    top: 65%;
+    left: 52%;
+    transform: translate(-50%, -50%);
+    font-size:14px;
+    padding: 5px;
+    font-weight:700;
+    background-color: black;
+
+}
 
 p{
     color: gray;
@@ -80,7 +94,7 @@ p{
     padding: 5px;
      font-weight:700;
      background-color: gray;
-     text-align: center;
+     text-align:center;
 }
 
 .button3 {
