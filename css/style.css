@@ -22,7 +22,7 @@ body {
 model-viewer{
     background-color:black;
     width: 65%;
-    height:75%;
+    height:69%;
     position: absolute;
     top: 40%;
     left: 47%;
@@ -67,6 +67,22 @@ model-viewer{
     background-color: black;
 
 }
+.container4 {
+    width: 140px;
+    height: 22px;
+    position: absolute;
+    top: 7%;
+    left: 19.5%;
+    transform: translate(-50%, -50%);
+    font-size:9px;
+    padding: 5px;
+    font-weight:700;
+    background-color: rgb(205, 205, 205);
+    text-align: center;
+    color: white;
+    z-index: 99;
+
+}
 
 p{
     color: gray;
@@ -82,10 +98,39 @@ p{
     transform: translate(-50%, -50%);
    font-size:14px;
     padding: 5px;
+    box-shadow: 1.9px 2.4px rgb(211, 211, 211);
      font-weight:700;
      background-color: gray;
      text-align: center;
         
+}
+.button1:hover {
+    background-color: rgb(226, 226, 226);
+    transition: 0.6s;
+}
+.button2:hover {
+    background-color: rgb(226, 226, 226);
+    transition: 0.6s;
+}
+.button3:hover {
+    background-color: rgb(226, 226, 226);
+    transition: 0.6s;
+}
+.button4:hover {
+    background-color: rgb(226, 226, 226);
+    transition: 0.6s;
+}
+.button5:hover {
+    background-color: rgb(226, 226, 226);
+    transition: 0.6s;
+}
+.button6:hover {
+    background-color: rgb(226, 226, 226);
+    transition: 0.6s;
+}
+.button7:hover {
+    background-color: rgb(226, 226, 226);
+    transition: 0.6s;
 }
 
 .button2 {
@@ -98,6 +143,7 @@ p{
     transform: translate(-50%, -50%);
    font-size:14px;
     padding: 5px;
+    box-shadow: 1.9px 2.4px rgb(211, 211, 211);
      font-weight:700;
      background-color: gray;
      text-align:center;
@@ -113,6 +159,7 @@ p{
     transform: translate(-50%, -50%);
    font-size:14px;
     padding: 5px;
+    box-shadow: 1.9px 2.4px rgb(211, 211, 211);
      font-weight:700;
      background-color: gray;
      text-align: center;
@@ -129,6 +176,7 @@ p{
     transform: translate(-50%, -50%);
    font-size:14px;
     padding: 5px;
+    box-shadow: 1.9px 2.4px rgb(211, 211, 211);
      font-weight:700;
      background-color: gray;
      text-align: center;   
@@ -144,6 +192,7 @@ p{
     transform: translate(-50%, -50%);
    font-size:14px;
     padding: 5px;
+    box-shadow: 1.9px 2.4px rgb(211, 211, 211);
      font-weight:700;
      background-color: gray;
      text-align: center;
@@ -159,6 +208,7 @@ p{
     transform: translate(-50%, -50%);
    font-size:14px;
     padding: 5px;
+    box-shadow: 1.9px 2.4px rgb(211, 211, 211);
      font-weight:700;
      background-color: gray;
      text-align: center;
@@ -174,6 +224,7 @@ p{
     transform: translate(-50%, -50%);
    font-size:14px;
     padding: 5px;
+    box-shadow: 1.9px 2.4px rgb(211, 211, 211);
      font-weight:700;
      background-color: gray;
      text-align: center;
